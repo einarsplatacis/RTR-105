@@ -9,3 +9,9 @@ Datormācības elektroniskā klade
 *man*  Sniedz skaidrojumu komandām.  
 *ls*  Parāda, kādi faili eksistē sistēmā.  
 *ls -l*  Sniedz precīzaku informāciju par failiem.  
+*sudo*  Ļauj piekļūt programmai ar galvenā lietotāja lietotāja profilu ("Run as administrator Windowsā).  
+*apt-get* Komanda, kas ļauj instalēt, atjaunināt vai dzēst pakotnes.  
+*apt-get install* Ļauj instalēt jaunas pakotnes.  
+*apt-get update* Ļauj atjaunināt pakotnes.  
+*apt-get remove* Izdzēš pakotni.
+*init 0* Izslēdz datoru.
