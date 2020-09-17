@@ -13,5 +13,15 @@ Datormācības elektroniskā klade
 *apt-get* Komanda, kas ļauj instalēt, atjaunināt vai dzēst pakotnes.  
 *apt-get install* Ļauj instalēt jaunas pakotnes.  
 *apt-get update* Ļauj atjaunināt pakotnes.  
-*apt-get remove* Izdzēš pakotni.
+*apt-get remove* Izdzēš pakotni.  
 *init 0* Izslēdz datoru.
+*mkdir* Izveido mapi.  
+*rmdir* Izdzēš mapi.  
+*rm* Izdzēšu failu.  
+*nano* Atver primitīvu rakstīšanas lietotni.  
+*cd* Pārvieto lietotāju citā lokācijā, kurā vēlas darboties.  
+*head* Var nolasīt no teksta faila pirmo rindu.  
+*tail* Var nolasīt no teksta faila pēdējo rindu.  
+*mv* Var pārvietot failu (arī pārsaukt).    
+*find* Var atrast failu kaut kādā dotā lokācijā.  
+*clear* Notīra termināli.  
