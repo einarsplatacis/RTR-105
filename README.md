@@ -25,5 +25,5 @@ Datormācības elektroniskā klade
 *mv* Var pārvietot failu (arī pārsaukt).    
 *find* Var atrast failu kaut kādā dotā lokācijā.  
 *clear* Notīra termināli.  
-*echo* Izvada teikumu.
-*cat* Izvada failā esošo tekstu.
+*echo* Izvada teikumu.  
+*cat* Izvada failā esošo tekstu.  
