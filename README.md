@@ -1,5 +1,5 @@
-# RTR-105
-## Datormācības elektroniskā klade
+# Datormācības elektroniskā klade
+## Linux termināla komandas
 
 *uname*  Parāda, kāda operētājsistēma ir datorā.  
 *uname -a*  Precīzāk parāda informāciju par operētajsistēmu.  
@@ -27,3 +27,6 @@
 *clear* Notīra termināli.  
 *echo* Izvada teikumu.  
 *cat* Izvada failā esošo tekstu.  
+*wc* Var saskaitīt dažādas lietas teksta failā.  
+*uniq* Izdrukā atkārtotas detaļas teksta failā.  
+*exit* Iziet arā no faila.  
