@@ -1,5 +1,5 @@
 # RTR-105
-Datormācības elektroniskā klade
+## Datormācības elektroniskā klade
 
 *uname*  Parāda, kāda operētājsistēma ir datorā.  
 *uname -a*  Precīzāk parāda informāciju par operētajsistēmu.  
