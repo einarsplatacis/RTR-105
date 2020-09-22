@@ -30,3 +30,8 @@
 *wc* Var saskaitīt dažādas lietas teksta failā.  
 *uniq* Izdrukā atkārtotas detaļas teksta failā.  
 *exit* Iziet arā no faila.  
+*touch* Izveido jebkāda tipa failu.  
+*rm -rf* Izdzēš pilnīgi visus failus dotajā lokācijā.  
+*figlet* Ar milzīgiem burtiem var izvadīt tekstu terminālī.  
+*sl* Vilciens cauri terminālim.  
+*xeyes* Acis.  
