@@ -35,3 +35,4 @@
 *figlet* Ar milzīgiem burtiem var izvadīt tekstu terminālī.  
 *sl* Vilciens cauri terminālim.  
 *xeyes* Acis.  
+*xdg-open* Atver failus.  
