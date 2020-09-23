@@ -36,3 +36,10 @@
 *sl* Vilciens cauri terminālim.  
 *xeyes* Acis.  
 *xdg-open* Atver failus.  
+*alias* Pārsauc komandas citādāk.  
+*whereis* Atrod komandas failu lokāciju.  
+*echo $PATH* 
+
+## Skriptu rakstīšana.
+
+#!/bin/bash <- skripta izpildītājs
