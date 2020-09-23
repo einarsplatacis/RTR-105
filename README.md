@@ -42,4 +42,16 @@
 
 ## Skriptu rakstīšana.
 
-#!/bin/bash <- skripta izpildītājs
+#!/bin/bash <- skripta izpildītājs  
+touch text.txt  
+chmod 777 text.txt <- read/write/execute īpašības tiek pievienotas  
+
+## Skripta izpilde
+*Ja ir chmod 777, tad var izpildīt skriptu ar:*
+### /bash/text.txt  
+*Ja ir chmod 775, tad var izpildīt skriptu ar:*
+### ./text.txt
+
+
+
+
