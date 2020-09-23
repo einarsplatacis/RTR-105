@@ -52,7 +52,3 @@ chmod 777 text.txt <- read/write/execute īpašības tiek pievienotas
 ### /bash/text.txt  
 *Ja ir chmod 775, tad var izpildīt skriptu ar:*
 ### ./text.txt
-
-
-https://github.com/einarsplatacis/RTR-105.git
-
