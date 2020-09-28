@@ -38,14 +38,16 @@
 *xdg-open* Atver failus.  
 *alias* Pārsauc komandas citādāk.  
 *whereis* Atrod komandas failu lokāciju.  
-*echo $PATH* 
+*echo $PATH* Parāda lokācijas, kuras OS ielūkojas komandas izpildei.  
+*echo $?* Parāda rezultātu pēc pēdējās komandas.  
+*git clone* Lejupielādē repozitāriju.  
 
 ## Skriptu rakstīšana.
 
 #!/bin/bash <- skripta izpildītājs  
 touch text.txt  
 chmod 777 text.txt <- read/write/execute īpašības tiek pievienotas  
-
+echo $PATH jāpapildina ar echo $PATH ~,lai iečekotu skripta lokāciju.
 
 ## Skripta izpilde
 *Ja ir chmod 777, tad var izpildīt skriptu ar:*
