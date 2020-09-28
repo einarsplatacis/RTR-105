@@ -46,8 +46,8 @@
 
 git config --global user.email einars431@gmail.com  
 git add .  
-git commmit -m "nosaukums"
-git push origin master
+git commmit -m "nosaukums"  
+git push origin master  
 
 ## Skriptu rakstīšana.
 
