@@ -40,7 +40,14 @@
 *whereis* Atrod komandas failu lokāciju.  
 *echo $PATH* Parāda lokācijas, kuras OS ielūkojas komandas izpildei.  
 *echo $?* Parāda rezultātu pēc pēdējās komandas.  
-*git clone* Lejupielādē repozitāriju.  
+*git clone *https://github.com/einarsplatacis/RTR-105* Lejupielādē repozitāriju.  
+
+## Augšupielāde Githubā.
+
+git config --global user.email einars431@gmail.com  
+git add .  
+git commmit -m "nosaukums"
+git push origin master
 
 ## Skriptu rakstīšana.
 
