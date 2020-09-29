@@ -55,6 +55,7 @@ git push origin master
 touch text.txt  
 chmod 777 text.txt <- read/write/execute īpašības tiek pievienotas  
 echo $PATH jāpapildina ar echo $PATH ~,lai iečekotu skripta lokāciju.
+echo "..." $@ parāda input ievadīto tekstu pēc stringa
 
 ## Skripta izpilde
 *Ja ir chmod 777, tad var izpildīt skriptu ar:*
