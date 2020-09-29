@@ -51,14 +51,28 @@ git push origin master
 
 ## Skriptu rakstīšana.
 
-#!/bin/bash <- skripta izpildītājs  
-touch text.txt  
-chmod 777 text.txt <- read/write/execute īpašības tiek pievienotas  
-echo $PATH jāpapildina ar echo $PATH ~,lai iečekotu skripta lokāciju.
-echo "..." $@ parāda input ievadīto tekstu pēc stringa
+*#!/bin/bash* <- skripta izpildītājs  
+*touch text.txt*  
+*chmod 777 text.txt* <- read/write/execute īpašības tiek pievienotas  
+*echo $PATH jāpapildina ar echo $PATH ~*,lai iečekotu skripta lokāciju.  
+*echo "..." $@* parāda input ievadīto tekstu pēc stringa.  
+*read userInput* + *echo "..." ${userInput}* Ievada tekstu, izmet ievadīto tekstu ar stringu.  
+### If statement  
+*if [...];then*   
+    *echo "..."*  
+*else*  
+    *echo "..."*  
+*fi*  
+  
+*-d* Patiess, ja fails eksistē un ir mape.  
+*-a* Patiess, ja fails eksistē.  
 
 ## Skripta izpilde
 *Ja ir chmod 777, tad var izpildīt skriptu ar:*
 ### /bash/text.txt  
 *Ja ir chmod 775, tad var izpildīt skriptu ar:*
 ### ./text.txt
+
+## C valodas faila kompilēšana  
+*gcc* kompilē gatavo C failu.  
+*./a.out* Izpilda kompilējamo failu. Default nosaukums kompilējamam failam ir *a.out.*  
