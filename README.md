@@ -14,7 +14,7 @@
 *apt-get install* Ļauj instalēt jaunas pakotnes.  
 *apt-get update* Ļauj atjaunināt pakotnes.  
 *apt-get remove* Izdzēš pakotni.  
-*init 0* Izslēdz datoru.
+*init 0* Izslēdz datoru.  
 *mkdir* Izveido mapi.  
 *rmdir* Izdzēš mapi.  
 *rm* Izdzēšu failu.  
