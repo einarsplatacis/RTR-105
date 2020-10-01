@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo $PATH /home/einars/RTR-105/
 chmod 775 augsupielade.txt
 
 git config --global user.email einars431@gmail.com
