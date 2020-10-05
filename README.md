@@ -76,3 +76,17 @@ git push origin master
 ## C valodas faila kompilēšana  
 *gcc* kompilē gatavo C failu.  
 *./a.out* Izpilda kompilējamo failu. Default nosaukums kompilējamam failam ir *a.out.*  
+
+## C valodas komandas  
+### Mainīgie  
+*char vards[] = "John";* teksta mainigais.  
+*int characterAge = 35;* integer mainigais.    
+
+*printf("%s\n", vards);* teksta mainigais stringā.  
+*printf("%d\n", characterAge)* integer mainigais stringā.    
+ 
+### Datu tipi  
+*int* Integer.  
+*double* Decimālskaitlis.  
+*char = ''* Simboli.  
+*char[] = ""* Strings.  

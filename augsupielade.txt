@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 chmod 775 augsupielade.txt
 
 git config --global user.email einars431@gmail.com
