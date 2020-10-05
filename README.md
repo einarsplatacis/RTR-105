@@ -40,10 +40,12 @@
 *whereis* Atrod komandas failu lokāciju.  
 *echo $PATH* Parāda lokācijas, kuras OS ielūkojas komandas izpildei.  
 *echo $?* Parāda rezultātu pēc pēdējās komandas.  
-*git clone *https://github.com/einarsplatacis/RTR-105* Lejupielādē repozitāriju.  
+*seq* Izprintē skaitļus konkrētajā diapazonā.  
+
 
 ## Augšupielāde Githubā.
 
+*git clone *https://github.com/einarsplatacis/RTR-105* Lejupielādē repozitāriju.  
 git config --global user.email einars431@gmail.com  
 git add .  
 git commmit -m "nosaukums"  
@@ -66,6 +68,19 @@ git push origin master
   
 *-d* Patiess, ja fails eksistē un ir mape.  
 *-a* Patiess, ja fails eksistē.  
+### For cikls  
+*for i in $(...)*  
+*do*  
+   *echo $i*  
+*done*  
+
+*$((...))* izpilda matemātiskās darbības.
+*-eq* ir vienāds.   
+*-ne* nav vienāds.  
+*-lt* mazāks par.
+*-le* mazāks vai vienāds par.  
+*-gt* lielāks par.  
+*-ge* lielāks vai vienāds par.  
 
 ## Skripta izpilde
 *Ja ir chmod 777, tad var izpildīt skriptu ar:*
