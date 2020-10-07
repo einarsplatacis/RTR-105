@@ -98,10 +98,33 @@ git push origin master
 *int characterAge = 35;* integer mainigais.    
 
 *printf("%s\n", vards);* teksta mainigais stringā.  
-*printf("%d\n", characterAge)* integer mainigais stringā.    
+*printf("%d\n", characterAge)* integer mainigais stringā.  
+*printf("%c\n", char)* simbola mainīgais stringā.  
+*printf("%f\n", float)* reālais skaitlis stringā.    
  
 ### Datu tipi  
 *int* Integer.  
 *double* Decimālskaitlis.  
 *char = ''* Simboli.  
 *char[] = ""* Strings.  
+*#define A 11* = definē konstanti A ar vērtību 11.  
+*float* Reālais skaitlis.  
+
+
+Informācijas vienība, ar kuru operē dators - bits (0/1).  
+Informācijas vienība ar adresi (datorā) - baits.  
+1 byte = 8 biti.  
+ASCII tabula - 1 simbols == 1 baits.  
+1 bits - 0,1 kombinācijas.  
+2 biti - 00,01,10,11 kombinācijas.  
+3 biti - 000,001,010,011,100,101,110,111 kombinācijas.  
+x biti - stāvokļu skaits*biti == 2^x.  
+1 baitā ir 8 biti => 256 kombinācijas.  
+ASCII tabulā 256 unikāli baiti => 256 unikāli simboli.    
+
+Skaitļi: veseli skaitļi, reālie skaitļi, kompleksie skaitļi (divas daļas: Re
+un I)
+  
+### Funkcijas    
+
+*sizeof()* Izskaita baitus mainīgajam.  
