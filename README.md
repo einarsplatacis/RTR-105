@@ -128,3 +128,9 @@ un I)
 ### Funkcijas    
 
 *sizeof()* Izskaita baitus mainīgajam.  
+*printf* Printē.  
+*scanf*  Ļauj ievadīt.  
+*fgets* Tas pats scanf, bet uztver visu, par ar spaciem.  
+*print("...0x%x")* Printē ciparus heksidecimālajā formātā.  
+*print("...%o")* Printē ciparus oktālajā formātā.  
+*print("...%d")* Printē ciparus decimālajā formātā.  
