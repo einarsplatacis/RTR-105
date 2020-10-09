@@ -134,3 +134,5 @@ un I)
 *print("...0x%x")* Printē ciparus heksidecimālajā formātā.  
 *print("...%o")* Printē ciparus oktālajā formātā.  
 *print("...%d")* Printē ciparus decimālajā formātā.  
+*void vai in* Funkcijas dibināšana.  
+*switch* Gadījumi.  
