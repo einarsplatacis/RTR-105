@@ -135,4 +135,6 @@ un I)
 *print("...%o")* Printē ciparus oktālajā formātā.  
 *print("...%d")* Printē ciparus decimālajā formātā.  
 *void vai in* Funkcijas dibināšana.  
-*switch* Gadījumi.  
+*switch* Gadījumi. Gandrīz tas pats, kas If.  
+*struct* Izveido modeli (šablonu).  
+*while* Ciklē operācijas, kamēr ievadītais apgalvojums ir patiess.  
