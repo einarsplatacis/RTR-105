@@ -101,6 +101,8 @@ git push origin master
 *printf("%d\n", characterAge)* integer mainigais stringā.  
 *printf("%c\n", char)* simbola mainīgais stringā.  
 *printf("%f\n", float)* reālais skaitlis stringā.    
+
+*a << b* Bīda ciparu pa bitiem (5<<1 => 0000 0101 => 0000 1010 => 10).    
  
 ### Datu tipi  
 *int* Integer.  
@@ -109,6 +111,8 @@ git push origin master
 *char[] = ""* Strings.  
 *#define A 11* = definē konstanti A ar vērtību 11.  
 *float* Reālais skaitlis.  
+*Salīdzināšanas operācijas: <=;>=;==;=! (Rezultāts ir 0 vai 1).*  
+*Loģiskās operācijas pa bitiem: &; |* 0000 0101 & 1111 0011 => 0000 0101 ; 0000 1111 | 1111 0000 => 1111 1111.  
 
 
 Informācijas vienība, ar kuru operē dators - bits (0/1).  
@@ -135,6 +139,7 @@ un I)
 *print("...%o")* Printē ciparus oktālajā formātā.  
 *print("...%d")* Printē ciparus decimālajā formātā.  
 *void vai in* Funkcijas dibināšana.  
+*clock* Hronometrs.(Vajag time.h library)  
 *switch* Gadījumi. Gandrīz tas pats, kas If.  
 *struct* Izveido modeli (šablonu).  
 *while* Ciklē operācijas, kamēr ievadītais apgalvojums ir patiess.  
