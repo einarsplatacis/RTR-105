@@ -96,7 +96,7 @@ git push origin master
 ### Mainīgie  
 *char vards[] = "John";* teksta mainigais.  
 *int characterAge = 35;* integer mainigais.    
-
+int *cipars = &cipars; pointer mainīgais (uztur kkāda mainīgā atrašanās vietu).  
 *printf("%s\n", vards);* teksta mainigais stringā.  
 *printf("%d\n", characterAge)* integer mainigais stringā.  
 *printf("%c\n", char)* simbola mainīgais stringā.  
@@ -143,3 +143,5 @@ un I)
 *switch* Gadījumi. Gandrīz tas pats, kas If.  
 *struct* Izveido modeli (šablonu).  
 *while* Ciklē operācijas, kamēr ievadītais apgalvojums ir patiess.  
+*fopen* Atver failu.  
+*fprintf* Izdrukā failā tekstu.  
