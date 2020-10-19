@@ -145,19 +145,3 @@ un I)
 *while* Ciklē operācijas, kamēr ievadītais apgalvojums ir patiess.  
 *fopen* Atver failu.  
 *fprintf* Izdrukā failā tekstu.  
-
-## 40 miljardi  
-
-long int cipars1;  
-long int cipars2;  
-long long rezultats;  
-
-int main(){  
-   printf("Ievadiet ciparu: \n");  
-   scanf("%ld", &cipars1);  
-   printf("Ievadiet ciparu: \n");  
-   scanf("%ld", &cipars2);  
-   rezultats = cipars1 * cipars2;  
-   printf("Rezinajuma rezultats: %lld\n", rezultats);  
-   return 0;
-}
