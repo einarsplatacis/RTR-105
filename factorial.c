@@ -11,7 +11,7 @@ int tips;
 int while_char(){
 	char skaitlis;
 	printf("Ievadiet skaitli: \n");
-	scanf("%c", &skaitlis);
+	scanf("%s", &skaitlis);
 	if(skaitlis<0){
 		printf("Neeksistē.\n");
 	}else{
@@ -59,7 +59,7 @@ int while_long(){
 int for_char(){
 	char skaitlis;
         printf("Ievadiet skaitli: \n");
-        scanf("%c", &skaitlis);
+        scanf("%s", &skaitlis);
         if(skaitlis<0){
                 printf("Neeksistē.\n");
         }else{
