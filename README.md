@@ -145,3 +145,5 @@ un I)
 *while* Ciklē operācijas, kamēr ievadītais apgalvojums ir patiess.  
 *fopen* Atver failu.  
 *fprintf* Izdrukā failā tekstu.  
+*return* Atgriež funkcijas vērtību citā funkcijā.  
+*sscanf, atoi vai (int)* Pārveido no char to int mainīgo.  
