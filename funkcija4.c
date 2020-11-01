@@ -1,36 +1,37 @@
+
 #include <stdio.h>
 #include <stdlib.h>
 
-float skaitlis1;
-float skaitlis2;
-char simbols;
+float cipars;
+float cipars2;
+char operators;
+float rezultats;
+char izvele;
+float result;
 
-int funkcija(float skaitlis1, float skaitlis2, char simbols){
-	float rezultats;
-	if(simbols = '+'){
-		rezultats = skaitlis1 + skaitlis2;
-	}
-	if(simbols = '-'){
-		rezultats = skaitlis1 - skaitlis2;
-	}
-	if(simbols = '*'){
-		rezultats = skaitlis1 * skaitlis2;
-	}
-	if(simbols = '/'){
-		rezultats = skaitlis1 / skaitlis2;
+int kalkulators(float cipars, float cipars2, char operators){
+	if(operators == '+'){
+		rezultats = cipars + cipars2;
+	}else if(operators == '-'){
+		rezultats = cipars - cipars2;
+	}else if(operators == '*'){
+		rezultats = cipars * cipars2;
+	}else if(operators == '/'){
+		rezultats = cipars / cipars2;
 	}else{
-		printf("Kļūda. Nederīgs operātors.\n");
+		printf("Kaut kas nesagāja. \n");
 	}
 	return rezultats;
 }
 
 int main(){
-	printf("Lūdzu ievadiet 1.skaitli: \n");
-	scanf("%f", &skaitlis1);
-	printf("Lūdzu ievadiet 2.skaitli: \n");
-	scanf("%f", &skaitlis2);
-	printf("Kādu operāciju jūs izvēlaties?\n");
-	scanf("%s", &simbols);
-	float result = funkcija(skaitlis1, skaitlis2, simbols);
-	printf("Rezultāts ir %f\n", result);
+        printf("Lūdzu, ievadiet ciparu: \n");
+        scanf("%f", &cipars);
+        printf("Lūdzu, ievadiet ciparu: \n");
+        scanf("%f", &cipars2);
+        printf("Kāda operācija? \n");
+        scanf("%s", &operators);
+        result = kalkulators(cipars, cipars2, operators);
+        printf("Rezultāts ir: %f\n", result);
+        return 0;
 }
