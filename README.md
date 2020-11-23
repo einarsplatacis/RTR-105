@@ -147,3 +147,7 @@ un I)
 *fprintf* Izdrukā failā tekstu.  
 *return* Atgriež funkcijas vērtību citā funkcijā.  
 *sscanf, atoi vai (int)* Pārveido no char to int mainīgo.  
+*perror* gluži kā printf, var printēt stringu.  
+*fputs("hehe", hehe.txt)* Var uzrakstīt tekstu iekšā failā.  
+*puts("Please enter your name:")* Pilda funkciju kā printf.  
+*gets(name)* Nosūta puts ievadīto info uz mainīgo.  
