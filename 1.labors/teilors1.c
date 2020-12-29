@@ -3,14 +3,16 @@
 #include <math.h>
 
 int main(){
-	long double x=2.05,a,S,y;
+	long double x,a,S,y;
 	int k=0;
-	x=x/2;
+	printf("Cien.lietotāj, lūdzu, ievadi vērtību:\n");
+	scanf("%Lf\n",&x);
+	x = x/2;
 	y=cos(x);
 	//printf("%.3f\n",y);
 	printf("cos(x/2) aprēķināšana:\n");
-        printf("Ievadi argumentu x: %.3Lf\n",x);
-        printf("cos(%.3Lf/2)=%.3Lf\n",x,y);
+        printf("Ievadi argumentu x/2: %.3Lf\n",x);
+        printf("cos(%.3Lf)=%.3Lf\n",x,y);
 
 	a = pow(-1,k)*pow(x,2*k)/(1*pow(2,2*k));
 	S = a;
@@ -26,7 +28,7 @@ int main(){
 	a = pow(-1,k)*pow(x,2*k)/(1*pow(2,2*k));
 	S = S + a;
 	printf("a500 = %.300Lf\n S500 = %.10Lf\n",a,S);
-	printf("\t\t6\n");
+	printf("\t\t500\n");
         printf("\t      ______\n");
         printf("\t      \\           k    2*k\n");
         printf("\t       \\       (-1) * x\n");
