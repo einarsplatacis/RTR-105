@@ -1,0 +1,826 @@
+1174  nano teilors.c
+ 1175  gcc teilors.c -lm
+ 1176  sudo du -sh /var/cache/apt
+ 1177  gcc teilors.c -lm
+ 1178  sudo apt autoremove
+ 1179  gcc teilors.c -lm
+ 1180  nano teilors.c
+ 1181  gcc teilors.c -lm
+ 1182  nano teilors.c
+ 1183  gcc teilors.c -lm
+ 1184  ./a.out 
+ 1185  nano teilors.c
+ 1186  gcc teilors.c -lm
+ 1187  nano teilors.c
+ 1188  gcc teilors.c -lm
+ 1189  nano teilors.c
+ 1190  gcc teilors.c -lm
+ 1191  ./a.out 
+ 1192  nano teilors.c
+ 1193  gcc teilors.c -lm
+ 1194  ./a.out 
+ 1195  nano teilors.c
+ 1196  init 0
+ 1197  nano teilors.c
+ 1198  gcc teilors.c -lm
+ 1199  nano teilors.c
+ 1200  gcc teilors.c -lm
+ 1201  nano teilors.c
+ 1202  gcc teilors.c -lm
+ 1203  ./a.out 
+ 1204  nano teilors.c
+ 1205  gcc teilors.c -lm
+ 1206  nano teilors.c
+ 1207  ./a.out 
+ 1208  nano teilors.c
+ 1209  gcc teilors.c -lm
+ 1210  ./a.out 
+ 1211  nano teilors.c
+ 1212  gcc teilors.c -lm
+ 1213  ./a.out 
+ 1214  nano teilors.c
+ 1215  gcc teilors.c -lm
+ 1216  ./a.out 
+ 1217  nano teilors.c
+ 1218  ./a.out 
+ 1219  nano teilors.c
+ 1220  gcc teilors.c -lm
+ 1221  ./a.out 
+ 1222  nano teilors.c
+ 1223  gcc teilors.c -lm
+ 1224  ./a.out 
+ 1225  nano teilors.c
+ 1226  gcc teilors.c -lm
+ 1227  ./a.out 
+ 1228  nano teilors.c
+ 1229  ./a.out 
+ 1230  gcc teilors.c -lm
+ 1231  ./a.out 
+ 1232  nano teilors.c
+ 1233  gcc teilors.c -lm
+ 1234  ./a.out 
+ 1235  nano teilors.c
+ 1236  gcc teilors.c -lm
+ 1237  nano teilors.c
+ 1238  gcc teilors.c -lm
+ 1239  ./a.out 
+ 1240  nano teilors.c
+ 1241  gcc teilors.c -lm
+ 1242  nano teilors.c
+ 1243  gcc teilors.c -lm
+ 1244  ./a.out 
+ 1245  nano teilors.c
+ 1246  y
+ 1247  init 0
+ 1248  nano teilors.c
+ 1249  gcc teilors.c -lm
+ 1250  ./a.out 
+ 1251  nano teilors.c
+ 1252  gcc teilors.c -lm
+ 1253  nano teilors.c
+ 1254  gcc teilors.c -lm
+ 1255  nano teilors.c
+ 1256  gcc teilors.c -lm
+ 1257  nano teilors.c
+ 1258  gcc teilors.c -lm
+ 1259  ./a.out 
+ 1260  nano teilors.c
+ 1261  gcc teilors.c -lm
+ 1262  ./a.out 
+ 1263  nano teilors.c
+ 1264  gcc teilors.c -lm
+ 1265  ./a.out 
+ 1266  nano teilors.c
+ 1267  gcc teilors.c -lm
+ 1268  ./a.out 
+ 1269  5
+ 1270  ./a.out 
+ 1271  nano teilors.c
+ 1272  gcc teilors.c -lm
+ 1273  ./a.out 
+ 1274  nano teilors.c
+ 1275  gcc teilors.c -lm
+ 1276  ./a.out 
+ 1277  gcc teilors.c -lm
+ 1278  nano teilors.c
+ 1279  gcc teilors.c -lm
+ 1280  ./a.out 
+ 1281  4
+ 1282  init 0
+ 1283  nano teilora.c
+ 1284  nano teilors.c
+ 1285  gcc teilors.c -lm
+ 1286  ./a.out 
+ 1287  nano teilors.c
+ 1288  gcc teilors.c -lm
+ 1289  nano teilors.c
+ 1290  gcc teilors.c -lm
+ 1291  nano teilors.c
+ 1292  gcc teilors.c -lm
+ 1293  nano teilors.c
+ 1294  gcc teilors.c -lm
+ 1295  ./a.out 
+ 1296  nano teilors.c
+ 1297  gcc teilors.c -lm
+ 1298  nano teilors.c
+ 1299  gcc teilors.c -lm
+ 1300  nano teilors.c
+ 1301  gcc teilors.c -lm
+ 1302  ./a.out 
+ 1303  nano teilors.c
+ 1304  gcc teilors.c -lm
+ 1305  nano teilors.c
+ 1306  gcc teilors.c -lm
+ 1307  ./a.out 
+ 1308  nano teilors.c
+ 1309  gcc teilors.c -lm
+ 1310  nano teilors.c
+ 1311  gcc teilors.c -lm
+ 1312  ./a.out 
+ 1313  nano teilors.c
+ 1314  gcc teilors.c -lm
+ 1315  ./a.out 
+ 1316  nano teilors.c
+ 1317  gcc teilors.c -lm
+ 1318  ./a.out 
+ 1319  nano teilors.c
+ 1320  gcc teilors.c -lm
+ 1321  nano teilors.c
+ 1322  gcc teilors.c -lm
+ 1323  nano teilors.c
+ 1324  gcc teilors.c -lm
+ 1325  ./a.out 
+ 1326  init 0
+ 1327  nano teilors.c
+ 1328  gcc teilors.c -lm
+ 1329  nano teilors.c
+ 1330  gcc teilors.c -lm
+ 1331  nano teilors.c
+ 1332  gcc teilors.c -lm
+ 1333  nano teilors.c
+ 1334  gcc teilors.c -lm
+ 1335  ./a.out 
+ 1336  nano teilors.c
+ 1337  gcc teilors.c -lm
+ 1338  ./a.out 
+ 1339  nano teilors.c
+ 1340  gcc teilors.c -lm
+ 1341  nano teilors.c
+ 1342  gcc teilors.c -lm
+ 1343  nano teilors.c
+ 1344  gcc teilors.c -lm
+ 1345  ./a.out 
+ 1346  nano teilors.c
+ 1347  gcc teilors.c -lm
+ 1348  ./a.out 
+ 1349  nano teilors.c
+ 1350  gcc teilors.c -lm
+ 1351  ./a.out 
+ 1352  nano teilors.c
+ 1353  gcc teilors.c -lm
+ 1354  ./a.out 
+ 1355  nano teilors.c
+ 1356  gcc teilors.c -lm
+ 1357  ./a.out 
+ 1358  nano teilors.c
+ 1359  gcc teilors.c -lm
+ 1360  ./a.out 
+ 1361  nano teilors.c
+ 1362  gcc teilors.c -lm
+ 1363  ./a.out 
+ 1364  nano teilors.c
+ 1365  gcc teilors.c -lm
+ 1366  ./a.out 
+ 1367  nano teilors.c
+ 1368  ./a.out 
+ 1369  nano teilors.c
+ 1370  gcc teilors.c -lm
+ 1371  ./a.out 
+ 1372  nano teilors.c
+ 1373  gcc teilors.c -lm
+ 1374  nano teilors.c
+ 1375  gcc teilors.c -lm
+ 1376  nano teilors.c
+ 1377  gcc teilors.c -lm
+ 1378  ./a.out 
+ 1379  nano teilors.c
+ 1380  gcc teilors.c -lm
+ 1381  ./a.out 
+ 1382  nano teilors.c
+ 1383  ./a.out 
+ 1384  gcc teilors.c -lm
+ 1385  ./a.out 
+ 1386  nano teilors.c
+ 1387  gcc teilors.c -lm
+ 1388  ./a.out 
+ 1389  nano teilors.c
+ 1390  gcc teilors.c -lm
+ 1391  ./a.out 
+ 1392  nano teilors.c
+ 1393  gcc teilors.c -lm
+ 1394  nano teilors.c
+ 1395  gcc teilors.c -lm
+ 1396  nano teilors.c
+ 1397  gcc teilors.c -lm
+ 1398  nano teilors.c
+ 1399  gcc teilors.c -lm
+ 1400  ./a.out 
+ 1401  nano teilors.c
+ 1402  ./a.out 
+ 1403  gcc teilors.c -lm
+ 1404  ./a.out 
+ 1405  nano teilors.c
+ 1406  gcc teilors.c -lm
+ 1407  ./a.out 
+ 1408  nano teilors.c
+ 1409  gcc teilors.c -lm
+ 1410  ./a.out 
+ 1411  nano teilors.c
+ 1412  gcc teilors.c -lm
+ 1413  ./a.out 
+ 1414  init 0
+ 1415  nano teilors.c
+ 1416  gcc teilors.c -lm
+ 1417  ./a.out 
+ 1418  nano teilors.c
+ 1419  gcc teilors.c -lm
+ 1420  ./a.out 
+ 1421  nano teilors.c
+ 1422  nano teilors1.c
+ 1423  nano teilors.c
+ 1424  gcc teilors.c -lm
+ 1425  ./a.out 
+ 1426  nano teilors.c
+ 1427  nano sakne.c
+ 1428  init 0
+ 1429  nano teilors.c
+ 1430  gcc teilors.c -lm
+ 1431  -Werror teilors.c
+ 1432  nano teilors.c
+ 1433  gcc teilors.c -lm
+ 1434  nano teilors.c
+ 1435  gcc teilors.c -lm
+ 1436  clear
+ 1437  gcc teilors.c -lm
+ 1438  nano teilors.c
+ 1439  gcc teilors.c -lm
+ 1440  ./
+ 1441  ./a.out 
+ 1442  gcc teilors.c -lm
+ 1443  nano teilors.c
+ 1444  gcc teilors.c -lm
+ 1445  ./a.out 
+ 1446  nano teilors.c
+ 1447  gcc teilors.c -lm
+ 1448  nano teilors.c
+ 1449  gcc teilors.c -lm
+ 1450  nano teilors.c
+ 1451  gcc teilors.c -lm
+ 1452  nano teilors.c
+ 1453  gcc teilors.c -lm
+ 1454  ./a.out 
+ 1455  clear
+ 1456  ./a.out 
+ 1457  gcc teilors.c -lm
+ 1458  nano teilors.c
+ 1459  nano teilors1.c
+ 1460  gcc teilors1.c -lm
+ 1461  nano teilors1.c
+ 1462  gcc teilors1.c -lm
+ 1463  nano teilors1.c
+ 1464  gcc teilors1.c -lm
+ 1465  ./a.out 
+ 1466  nano teilors1.c
+ 1467  gcc teilors1.c -lm
+ 1468  nano teilors1.c
+ 1469  gcc teilors1.c -lm
+ 1470  ./a.out 
+ 1471  nano teilors1.c
+ 1472  gcc teilors1.c -lm
+ 1473  ./a.out 
+ 1474  nano teilors1.c
+ 1475  gcc teilors1.c -lm
+ 1476  ./a.out 
+ 1477  nano teilors1.c
+ 1478  gcc teilors1.c -lm
+ 1479  ./a.out 
+ 1480  nano teilors1.c
+ 1481  gcc teilors1.c -lm
+ 1482  ./a.out 
+ 1483  init 0
+ 1484  nano derivative.c
+ 1485  gcc derivative.c 
+ 1486  nano derivative.c
+ 1487  gcc derivative.c 
+ 1488  nano derivative.c
+ 1489  gcc derivative.c 
+ 1490  gcc derivative.c clear
+ 1491  clear
+ 1492  nano derivative.c
+ 1493  gcc derivative.c 
+ 1494  gcc derivative.c -m
+ 1495  gcc derivative.c -lm
+ 1496  ./a.out 
+ 1497  nano derivative.c
+ 1498  gcc derivative.c -lm
+ 1499  ./a.out 
+ 1500  nano derivative.c
+ 1501  gcc derivative.c -lm
+ 1502  ./a.out 
+ 1503  nano derivative.c
+ 1504  gcc derivative.c -lm
+ 1505  ./a.out 
+ 1506  nano derivative.c
+ 1507  gcc derivative.c -lm
+ 1508  ./a.out 
+ 1509  nano derivative.c
+ 1510  gcc derivative.c -lm
+ 1511  ./a.out 
+ 1512  clear
+ 1513  gcc derivative.c -lm
+ 1514  ./a.out 
+ 1515  nano dati.dat
+ 1516  nano grafiks.dat
+ 1517  nano dati.dat
+ 1518  nano grafiks.dat
+ 1519  gnuplot
+ 1520  nano dati.dat
+ 1521  gnuplot
+ 1522  nano grafiks.dat 
+ 1523  nano dati.dat
+ 1524  [A
+ 1525  nano dati.dat
+ 1526  gnuplot
+ 1527  nano dati.txt
+ 1528  gnuplot
+ 1529  nano dati.txt
+ 1530  nano grafiks.dat
+ 1531  nano derivative.c
+ 1532  gcc derivative.c -lm
+ 1533  nano derivative.c
+ 1534  gcc derivative.c -lm
+ 1535  ./a.out 
+ 1536  nano dati.txt
+ 1537  gnuplot
+ 1538  nano derivative.c
+ 1539  gcc derivative.c -lm
+ 1540  nano derivative.c
+ 1541  gcc derivative.c -lm
+ 1542  ./a.out 
+ 1543  nano derivative.c
+ 1544  gcc derivative.c -lmclear
+ 1545  cleart
+ 1546  clear
+ 1547  list
+ 1548  ls
+ 1549  gcc derivative.c -lm
+ 1550  ./a.out 
+ 1551  nano dati.txt
+ 1552  gnuplot
+ 1553  nano derivative.c 
+ 1554  gcc derivative.c -lm
+ 1555  ./a.out 
+ 1556  nano dati.txt
+ 1557  gnuplot
+ 1558  nano dati.txt
+ 1559  gnuplot
+ 1560  init 0
+ 1561  nano teilors.c
+ 1562  gcc teilors.c -lm
+ 1563  ./a.out 
+ 1564  nano teilors.c
+ 1565  gcc teilors.c -lm
+ 1566  ./a.out 
+ 1567  nano teilors.c
+ 1568  gcc teilors.c -lm
+ 1569  ./a.out 
+ 1570  nano teilors.c
+ 1571  gcc teilors.c -lm
+ 1572  ./a.out 
+ 1573  nano teilors.c
+ 1574  init 0
+ 1575  nano teilors.c
+ 1576  gcc teilors.c -lm
+ 1577  nano teilors.c
+ 1578  gcc teilors.c -lm
+ 1579  ./a.out 
+ 1580  nano teilors.c
+ 1581  gcc teilors.c -lm
+ 1582  ./a.out 
+ 1583  nano teilors.c
+ 1584  gcc teilors.c -lm
+ 1585  nano teilors.c
+ 1586  gcc teilors.c -lm
+ 1587  ./a.out 
+ 1588  nano teilors.c
+ 1589  gcc teilors.c -lm
+ 1590  nano teilors.c
+ 1591  gcc teilors.c -lm
+ 1592  ./a.out 
+ 1593  nano teilors.c
+ 1594  gcc teilors.c -lm
+ 1595  ./a.out 
+ 1596  nano teilors.c
+ 1597  gcc teilors.c -lm
+ 1598  ./a.out 
+ 1599  nano teilors.c
+ 1600  gcc teilors.c -lm
+ 1601  ./a.out 
+ 1602  nano teilors.c
+ 1603  y
+ 1604  init 0
+ 1605  ls
+ 1606  nano sakne.c
+ 1607  gcc sakne.c -lm
+ 1608  nano sakne.c
+ 1609  gcc sakne.c -lm
+ 1610  nano sakne.c
+ 1611  gcc sakne.c -lm
+ 1612  ./a.out 
+ 1613  nano sakne.c
+ 1614  gcc sakne.c -lm
+ 1615  nano sakne.c
+ 1616  gcc sakne.c -lm
+ 1617  ./a.out 
+ 1618  init 0
+ 1619  nano teilors.c
+ 1620  gcc sakne.c -lm
+ 1621  gcc teilors.c -lm
+ 1622  ./a.out 
+ 1623  nano teilors.c
+ 1624  gcc teilors.c -lm
+ 1625  ./a.out 
+ 1626  nano teilors.c
+ 1627  nano integralis.c
+ 1628  gcc integralis.c -lm
+ 1629  nano integralis.c
+ 1630  gcc integralis.c -lm
+ 1631  ./a.out 
+ 1632  nano integralis.c
+ 1633  gcc integralis.c -lm
+ 1634  ./a.out 
+ 1635  nano integralis.c
+ 1636  gcc integralis.c -lm
+ 1637  ./a.out 
+ 1638  nano integralis.c
+ 1639  gcc integralis.c -lm
+ 1640  ./a.out 
+ 1641  nano integralis.c
+ 1642  nano teilors.c
+ 1643  gcc integralis.c -lm
+ 1644  ./a.out 
+ 1645  gcc teilors.c -lm
+ 1646  nano teilors.c
+ 1647  gcc teilors.c -lm
+ 1648  ./a.out 
+ 1649  nano teilors.c
+ 1650  ./a.out 
+ 1651  gcc teilors.c -lm
+ 1652  ./a.out 
+ 1653  nano teilors.c
+ 1654  ./a.out 
+ 1655  nano teilors.c
+ 1656  gcc teilors.c -lm
+ 1657  ./a.out 
+ 1658  nano teilors.c
+ 1659  gcc teilors.c -lm
+ 1660  ./a.out 
+ 1661  nano teilors.c
+ 1662  gcc teilors.c -lm
+ 1663  ./a.out 
+ 1664  nano teilors.c
+ 1665  gcc teilors.c -lm
+ 1666  nano teilors.c
+ 1667  gcc teilors.c -lm
+ 1668  ./a.out 
+ 1669  nano teilors.c
+ 1670  gcc teilors.c -lm
+ 1671  nano teilors.c
+ 1672  gcc teilors.c -lm
+ 1673  ./a.out 
+ 1674  nano teilors.c
+ 1675  gcc teilors.c -lm
+ 1676  ./a.out \
+ 1677  ./a.out
+ 1678  nano teilors.c
+ 1679  gcc teilors.c -lm
+ 1680  ./a.out
+ 1681  nano teilors.c
+ 1682  gcc teilors.c -lm
+ 1683  ./a.out
+ 1684  nano teilors.c
+ 1685  gcc teilors.c -lm
+ 1686  ./a.out
+ 1687  nano teilors.c
+ 1688  gcc teilors.c -lm
+ 1689  ./a.out
+ 1690  nano teilors.c
+ 1691  gcc teilors.c -lm
+ 1692  ./a.out
+ 1693  nano teilors.c
+ 1694  gcc teilors.c -lm
+ 1695  ./a.out
+ 1696  nano teilors.c
+ 1697  gcc teilors.c -lm
+ 1698  ./a.out
+ 1699  nano teilors.c
+ 1700  gcc teilors.c -lm
+ 1701  ./a.out
+ 1702  nano teilors.c
+ 1703  gcc teilors.c -lm
+ 1704  ./a.out
+ 1705  nano teilors.c
+ 1706  gcc teilors.c -lm
+ 1707  nano teilors.c
+ 1708  gcc teilors.c -lm
+ 1709  nano teilors.c
+ 1710  gcc teilors.c -lm
+ 1711  ./a.out
+ 1712  nano teilors.c
+ 1713  gcc teilors.c -lm
+ 1714  ./a.out
+ 1715  nano teilors.c
+ 1716  gcc teilors.c -lm
+ 1717  ./a.out
+ 1718  nano teilors.c
+ 1719  gcc teilors.c -lm
+ 1720  nano teilors.c
+ 1721  gcc teilors.c -lm
+ 1722  nano teilors.c
+ 1723  gcc teilors.c -lm
+ 1724  ./a.out
+ 1725  nano teilors.c
+ 1726  gcc teilors.c -lm
+ 1727  ./a.out
+ 1728  nano teilors.c
+ 1729  gcc teilors.c -lm
+ 1730  ./a.out
+ 1731  nano teilors.c
+ 1732  gcc teilors.c -lm
+ 1733  ./a.out
+ 1734  nano teilors.c
+ 1735  gcc teilors.c -lm
+ 1736  ./a.out
+ 1737  nano teilors.c
+ 1738  gcc teilors.c -lm
+ 1739  ./a.out
+ 1740  nano teilors.c
+ 1741  gcc teilors.c -lm
+ 1742  ./a.out
+ 1743  init 0
+ 1744  nano teilors1.c
+ 1745  gcc teilors1.c -lm
+ 1746  ./a.out 
+ 1747  nano teilors1.c
+ 1748  gcc teilors1.c -lm
+ 1749  ./a.out 
+ 1750  nano teilors1.c
+ 1751  gcc teilors1.c -lm
+ 1752  ./a.out 
+ 1753  nano teilors1.c
+ 1754  gcc teilors1.c -lm
+ 1755  ./a.out 
+ 1756  nano teilors1.c
+ 1757  gcc teilors1.c -lm
+ 1758  nano teilors1.c
+ 1759  gcc teilors1.c -lm
+ 1760  ./a.out 
+ 1761  nano teilors.c
+ 1762  gcc teilors.c -lm
+ 1763  ./a.out 
+ 1764  nano teilors.c
+ 1765  gcc teilors.c -lm
+ 1766  ./a.out 
+ 1767  nano teilors.c
+ 1768  gcc teilors.c -lm
+ 1769  ./a.out 
+ 1770  nano teilors1.c
+ 1771  gcc teilors1.c -lm
+ 1772  ./a.out 
+ 1773  nano teilors1.c
+ 1774  gcc teilors1.c -lm
+ 1775  ./a.out 
+ 1776  nano teilors1.c
+ 1777  gcc teilors1.c -lm
+ 1778  ./a.out 
+ 1779  nano teilors1.c
+ 1780  gcc teilors1.c -lm
+ 1781  ./a.out 
+ 1782  nano teilors1.c
+ 1783  gcc teilors1.c -lm
+ 1784  ./a.out 
+ 1785  nano teilors1.c
+ 1786  gcc teilors1.c -lm
+ 1787  ./a.out 
+ 1788  nano teilors1.c
+ 1789  gcc teilors1.c -lm
+ 1790  ./a.out 
+ 1791  nano teilors1.c
+ 1792  gcc teilors1.c -lm
+ 1793  ./a.out 
+ 1794  nano teilors1.c
+ 1795  gcc teilors1.c -lm
+ 1796  ./a.out 
+ 1797  nano teilors1.c
+ 1798  gcc teilors1.c -lm
+ 1799  ./a.out 
+ 1800  nano teilors1.c
+ 1801  gcc teilors1.c -lm
+ 1802  ./a.out 
+ 1803  nano teilors1.c
+ 1804  nano teilors.c
+ 1805  nano teilors1.c
+ 1806  gcc teilors1.c -lm
+ 1807  nano teilors1.c
+ 1808  gcc teilors1.c -lm
+ 1809  ./a.out 
+ 1810  nano teilors1.c
+ 1811  gcc teilors1.c -lm
+ 1812  nano teilors1.c
+ 1813  gcc teilors1.c -lm
+ 1814  ./a.out 
+ 1815  nano teilors1.c
+ 1816  gcc teilors1.c -lm
+ 1817  nano teilors1.c
+ 1818  gcc teilors1.c -lm
+ 1819  ./a.out 
+ 1820  gcc teilors1.c -lm
+ 1821  nano teilors1.c
+ 1822  gcc teilors1.c -lm
+ 1823  ./a.out 
+ 1824  nano teilors1.c
+ 1825  gcc teilors1.c -lm
+ 1826  nano teilors1.c
+ 1827  gcc teilors1.c -lm
+ 1828  ./a.out 
+ 1829  nano teilors1.c
+ 1830  gcc teilors1.c -lm
+ 1831  ./a.out 
+ 1832  nano teilors1.c
+ 1833  gcc teilors1.c -lm
+ 1834  ./a.out 
+ 1835  nano teilors1.c
+ 1836  gcc teilors1.c -lm
+ 1837  ./a.out 
+ 1838  nano teilors1.c
+ 1839  init 0
+ 1840  nano teilors1.c
+ 1841  nano kosinuss.c
+ 1842  gcc kosinuss.c -lm
+ 1843  ./a.out 
+ 1844  nano kosinuss.c
+ 1845  gcc kosinuss.c -lm
+ 1846  ./a.out 
+ 1847  nano kosinuss.c
+ 1848  gcc kosinuss.c -lm
+ 1849  ./a.out 
+ 1850  nano kosinuss.c
+ 1851  gcc kosinuss.c -lm
+ 1852  ./a.out 
+ 1853  nano dati.txt
+ 1854  gnuplot
+ 1855  clear
+ 1856  nano teilors.c
+ 1857  gcc teilors.c -lm
+ 1858  ./a.out 
+ 1859  nano teilors.c
+ 1860  gcc teilors.c -lm
+ 1861  nano teilors.c
+ 1862  gcc teilors.c -lm
+ 1863  ./a.out 
+ 1864  nano teilors.c
+ 1865  gcc teilors.c -lm
+ 1866  ./a.out 
+ 1867  nano teilors.c
+ 1868  gcc teilors.c -lm
+ 1869  ./a.out 
+ 1870  nano teilors.c
+ 1871  gcc teilors.c -lm
+ 1872  ./a.out 
+ 1873  gcc teilors.c -lm
+ 1874  nano teilors.c
+ 1875  gcc teilors.c -lm
+ 1876  ./a.out 
+ 1877  nano teilors.c
+ 1878  gcc teilors.c -lm
+ 1879  ./a.out 
+ 1880  nano teilors.c
+ 1881  gcc teilors.c -lm
+ 1882  ./a.out 
+ 1883  nano teilors.c
+ 1884  ls
+ 1885  ./lejupielade.sh 
+ 1886  mv 'Ekrānattēls no 2020-09-25 09-58-11.png' /home/einars/RTR-105/
+ 1887  ls
+ 1888  mv teilors1.c /home/einars/RTR-105/
+ 1889  ls
+ 1890  clear
+ 1891  ls
+ 1892  cd RTR-105/
+ 1893  ls
+ 1894  ./augsupielade.txt 
+ 1895  ls
+ 1896  rm -rf /home/einars/RTR-105/
+ 1897  ls
+ 1898  cd
+ 1899  rm -rf /home/einars/RTR-105/
+ 1900  ls
+ 1901  init 0
+ 1902  ls
+ 1903  ./lejupielade.sh 
+ 1904  ls
+ 1905  cd RTR-105/
+ 1906  ls
+ 1907  rmdir 1.labors/
+ 1908  rmdir /home/einars/RTR-105/1.labors/
+ 1909  cd 1.labors/
+ 1910  ls
+ 1911  rm hehe 
+ 1912  ls
+ 1913  cd 1.labors/
+ 1914  cd R
+ 1915  cd `
+ 1916  dd
+ 1917  cd R
+ 1918  ```
+ 1919  cd RTR-105/
+ 1920  ls
+ 1921  rmdir 1.labors/
+ 1922  ls
+ 1923  mkdir 1.labors
+ 1924  ls
+ 1925  mv 'Ekrānattēls no 2020-09-25 09-58-11.png' /home/einars/RTR-105/1.labors/
+ 1926  mv teilors1.c /home/einars/RTR-105/1.labors/
+ 1927  cd 1.labors/
+ 1928  ls
+ 1929  cd ~
+ 1930  cd RTR-105/
+ 1931  ls
+ 1932  ./augsupielade.txt 
+ 1933  cd
+ 1934  nano teilors1.c
+ 1935  ./lejupielade.sh 
+ 1936  cd RTR-105/
+ 1937  cd 1.labors/
+ 1938  ls
+ 1939  nano teilors1.c 
+ 1940  cd
+ 1941  cd RTR-105/
+ 1942  ./augsupielade.txt 
+ 1943  cd 
+ 1944  rm -rf /home/einars/RTR-105/
+ 1945  ls
+ 1946  init 0
+ 1947  ./lejupielade.sh 
+ 1948  cd RTR-105/
+ 1949  cd 1.labors/
+ 1950  nano teilors1.c 
+ 1951  gcc teilors1.c -lm
+ 1952  nano teilors1.c 
+ 1953  gcc teilors1.c -lm
+ 1954  ./a.out 
+ 1955  nano teilors1.c 
+ 1956  gcc teilors1.c -lm
+ 1957  ./a.out 
+ 1958  nano teilors1.c 
+ 1959  gcc teilors1.c -lm
+ 1960  ./a.out 
+ 1961  nano teilors1.c 
+ 1962  gcc teilors1.c -lm
+ 1963  ./a.out 
+ 1964  nano teilors1.c 
+ 1965  gcc teilors1.c -lm
+ 1966  ./a.out 
+ 1967  nano teilors1.c 
+ 1968  gcc teilors1.c -lm
+ 1969  ./a.out 
+ 1970  cd
+ 1971  nano teilors
+ 1972  nano teilors.c
+ 1973  cd RTR-105/
+ 1974  cd 1.labors/
+ 1975  nano teilors1.c 
+ 1976  ./a.out 
+ 1977  nano teilors1.c 
+ 1978  gcc teilors1.c -lm
+ 1979  ./a.out 
+ 1980  ls
+ 1981  rm a.out 
+ 1982  ls
+ 1983  cd
+ 1984  gnuplot
+ 1985  cd RTR-105/
+ 1986  ls
+ 1987  cd 1
+ 1988  cd 1.labors/
+ 1989  LS
+ 1990  ls
+ 1991  nano teilors1.c 
+ 1992  ls
+ 1993  cd RTR-105/
+ 1994  ls
+ 1995  ./augsupielade.txt 
+ 1996  cd
+ 1997  rm -rf /home/einars/RTR-105/
+ 1998  ls
+ 1999  init 0
