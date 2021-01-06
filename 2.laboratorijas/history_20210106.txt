@@ -1,0 +1,122 @@
+nano sakne.c
+ 1892  gcc sakne.c -lm
+ 1893  ./a.out 
+ 1894  nano sakne.c
+ 1895  gcc sakne.c -lm
+ 1896  ./a.out 
+ 1897  nano sakne.c
+ 1898  gcc sakne.c -lm
+ 1899  ./a.out 
+ 1900  nano sakne.c
+ 1901  gcc sakne.c -lm
+ 1902  ./a.out 
+ 1903  nano sakne.c
+ 1904  gcc sakne.c -lm
+ 1905  ./a.out 
+ 1906  clear
+ 1907  nano sakne.c
+ 1908  gcc sakne.c -lm
+ 1909  clear
+ 1910  ./a.out 
+ 1911  nano sakne.c
+ 1912  gcc sakne.c -lm
+ 1913  ./a.out 
+ 1914  nano sakne.c
+ 1915  gcc sakne.c -lm
+ 1916  ./a.out 
+ 1917  nano sakne.c
+ 1918  gcc sakne.c -lm
+ 1919  nano sakne.c
+ 1920  gcc sakne.c -lm
+ 1921  ./a.out 
+ 1922  nano sakne.c
+ 1923  gcc sakne.c -lm
+ 1924  nano sakne.c
+ 1925  gcc sakne.c -lm
+ 1926  ./a.out 
+ 1927  nano sakne.c
+ 1928  gcc sakne.c -lm
+ 1929  nano sakne.c
+ 1930  gcc sakne.c -lm
+ 1931  ./a.out 
+ 1932  nano sakne.c
+ 1933  gcc sakne.c -lm
+ 1934  ./a.out 
+ 1935  gcc sakne.c -lm
+ 1936  ./a.out 
+ 1937  nano sakne.c
+	nano sakne.c
+ 1955  gcc sakne.c -lm
+ 1956  ./a.out 
+ 1957  nano sakne.c
+ 1958  gcc sakne.c -lm
+ 1959  ./a.out 
+ 1960  clear
+ 1961  gcc sakne.c -lm
+ 1962  nano sakne.c
+ 1963  init 0
+ 1964  gnuplot
+ 1965  nano dati.txt
+ 1966  nano dati2.txt
+ 1967  gnuplot
+ 1968  nano dati2.txt
+ 1969  gnuplot
+ 1970  nano dati2.txt
+ 1971  nano dati.txt
+ 1972  gnuplot
+ 1973  nano dati2.txt
+ 1974  gnuplot
+ 1975  nano dati.txt
+ 1976  gnuplot
+ 1977  nano dati2.txt
+ 1978  nano dati3.txt
+ 1979  gnuplot
+ 1980  nano dati3.txt
+ 1981  gnuplot
+ 1982  nano dati2.txt
+ 1983  nano dati3.txt
+ 1984  gnuplot
+ 1985  nano dati3.txt
+ 1986  gnuplot
+ 1987  nano dati2.txt
+ 1988  nano dati3.txt
+ 1989  gnuplot
+ 1990  rm dati3.txt
+ 1991  list
+ 1992  ls
+ 1993  nano dati2.txt
+ 1994  gnuplot
+ 1995  nano dati2.txt
+ 1996  gnuplot
+ 1997  nano dati2.txt
+ 1998  gnuplot
+ 1999  init 0
+ 2000  nano sakne.c
+ 2001  gcc sakne.c -lm
+ 2002  nano sakne.c
+ 2003  gcc sakne.c -lm
+ 2004  nano sakne.c
+ 2005  gcc sakne.c -lm
+ 2006  ./a.out 
+ 2007  nano sakne.c
+ 2008  gcc sakne.c -lm
+ 2009  ./a.out 
+ 2010  nano sakne.c
+ 2011  gcc sakne.c -lm
+ 2012  ./a.out 
+ 2013  nano sakne.c
+ 2014  gnuplot
+ 2015  nano dati3.txt
+ 2016  gnuplot
+ 2017  nano dati3.txt
+ 2018  gnuplot
+ 2019  nano dati3.txt
+ 2020  gnuplot
+ 2021  nano dati3.txt
+ 2022  gnuplot
+ 2023  rm dati3.txt
+ 2024  nano skane.c
+ 2025  nano sakne.c
+ 2026  gcc sakne.c -lm
+ 2027  ./a.out 
+ 2028  nano dati3.txt
