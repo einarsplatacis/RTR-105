@@ -1,0 +1,72 @@
+nano derivative.c 
+ 1955  gcc derivative.c -lm
+ 1956  nano derivative.c 
+ 1957  gcc derivative.c -lm
+ 1958  ./a.out 
+ 1959  nano derivative.c 
+ 1960  gcc derivative.c -lm
+ 1961  ./a.out 
+ 1962  nano dati2.txt
+ 1963  nano derivative.c 
+ 1964  gcc derivative.c -lm
+ 1965  ./a.out 
+ 1966  nano dati2.txt
+ 1967  gnuplot
+ 1968  ./a.out 
+ 1969  nano dati2.txt
+ 1970  gnuplot
+ 1971  nano dati2.txt
+ 1972  nano derivative.c 
+ 1973  nano dati2.txt
+ 1974  ./a.out 
+ 1975  clear
+ 1976  ./a.out 
+ 1977  clear
+ 1978  gnuplot
+ 1979  nano derivative.c 
+ 1980  gcc derivative.c -lm
+ 1981  nano derivative.c 
+ 1982  gcc derivative.c -lm
+ 1983  ./a.out 
+ 1984  nano derivative.c 
+ 1985  gcc derivative.c -lm
+ 1986  ./a.out 
+ 1987  clear
+ 1988  nano derivative.c 
+ 1989  gcc derivative.c -lm
+ 1990  nano derivative.c 
+ 1991  gcc derivative.c -lm
+ 1992  nano derivative.c 
+ 1993  gcc derivative.c -lm
+ 1994  ./a.out 
+ 1995  clear
+ 1996  ./a.out 
+ 1997  nano derivative2.dat
+ 1998  gnuplot
+ 1999  nano derivative2.dat
+ 2000  nano derivative.c
+ 2001  ./a.out 
+ 2002  nano derivative.c
+ 2003  gcc derivative.c -lm
+ 2004  ./a.out 
+ 2005  gnuplot
+ 2006  clear
+ 2007  ./lejupielade.sh 
+ 2008  cd RTR-105/
+ 2009  ls
+ 2010  mkdir 3.laboratorijas darbs
+ 2011  ls
+ 2012  cd
+ 2013  ls
+ 2014  nano derivative.c
+ 2015  mv derivative.c /home/einars/RTR-105/3.laboratorijas/
+ 2016  cd
+ 2017  cd RTR-105/
+ 2018  cd 3.laboratorijas/
+ 2019  ls
+ 2020  cd
+ 2021  ls
+ 2022  mv derivative.dat /home/einars/RTR-105/3.laboratorijas/
+ 2023  mv derivative2.dat /home/einars/RTR-105/3.laboratorijas/
+ 2024  ls
+ 2025  history
