@@ -1,0 +1,85 @@
+nano integralis/c
+    2  nano integralis.c
+    3  gcc integralis.c -lm
+    4  sudo apt install gcc
+    5  clear
+    6  gcc integralis.c -lm
+    7  ./a.out 
+    8  nano integralis.c
+    9  gcc integralis.c -lm
+   10  ./a.out 
+   11  nano integralis.c
+   12  gcc integralis.c -lm
+   13  ./a.out 
+   14  nano integralis.c
+   15  gcc integralis.c -lm
+   16  ./a.out 
+   17  nano integralis.c
+   18  gcc integralis.c -lm
+   19  ./a.out 
+   20  nano integralis.c
+   21  gcc integralis.c -lm
+   22  ./a.out 
+   23  nano integralis.c
+   24  gcc integralis.c -lm
+   25  nano integralis.c
+   26  gcc integralis.c -lm
+   27  ./a.out 
+   28  nano integralis.c
+   29  gcc integralis.c -lm
+   30  ./a.out 
+   31  nano integralis.c
+   32  gcc integralis.c -lm
+   33  ./a.out 
+   34  nano integralis.c
+   35  gcc integralis.c -lm
+   36  ./a.out 
+   37  nano integralis.c
+   38  ./a.out 
+   39  nano integralis.c
+   40  gcc integralis.c -lm
+   41  ./a.out 
+   42  nano integralis.c
+   43  gcc integralis.c -lm
+   44  ./a.out 
+   45  nano integralis.c
+   46  gcc integralis.c -lm
+   47  nano integralis.c
+   48  gcc integralis.c -lm
+   49  ./a.out 
+   50  nano integralis.c
+   51  gcc integralis.c -lm
+   52  ./a.out 
+   53  nano integralis.c
+   54  gcc integralis.c -lm
+   55  ./a.out 
+   56  nano integralis.c
+   57  gcc integralis.c -lm
+   58  ./a.out 
+   59  nano integralis.c
+   60  gcc integralis.c -lm
+   61  ./a.out 
+   62  gnuplot
+   63  sudo apt install gnuplot
+   64  clear
+   65  gnuplot
+   66  git clone https://github.com/einarsplatacis/RTR-105
+   67  sudo apt install git
+   68  clear
+   69  git clone https://github.com/einarsplatacis/RTR-105
+   70  ls
+   71  cd RTR-105/
+   72  ls
+   73  mv lejupielade.sh /home/einars
+   74  ls
+   75  mkdir 4.laboratorijas darbs
+   76  ls
+   77  cd
+   78  nano integralis.c
+   79  gcc integralis.c -lm
+   80  nano integralis.c
+   81  gcc integralis.c -lm
+   82  ./a.out 
+   83  nano integralis.c
+   84  mv integralis.c /home/einars/RTR-105/4.laboratorijas/
+   85  history
