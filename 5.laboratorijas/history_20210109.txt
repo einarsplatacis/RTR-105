@@ -1,0 +1,128 @@
+nano rindas.c
+  100  gcc rindas.c -lm
+  101  nano rindas.c
+  102  gcc rindas.c -lm
+  103  nano rindas.c
+  104  gcc rindas.c -lm
+  105  nano rindas.c
+  106  gcc rindas.c -lm
+  107  nano rindas.c
+  108  gcc rindas.c -lm
+  109  nano rindas.c
+  110  gcc rindas.c -lm
+  111  ./a.out 
+  112  nano rindas.c
+  113  gcc rindas.c -lm
+  114  nano rindas.c
+  115  gcc rindas.c -lm
+  116  nano rindas.c
+  117  gcc rindas.c -lm
+  118  ./a.out 
+  119  nano rindas.c
+  120  gcc rindas.c -lm
+  121  ./a.out 
+  122  nano rindas.c
+  123  gcc rindas.c -lm
+  124  nano rindas.c
+  125  gcc rindas.c -lm
+  126  ./a.out 
+  127  nano rindas.c
+  128  gcc rindas.c -lm
+  129  ./a.out 
+  130  nano rindas.c
+  131  gcc rindas.c -lm
+  132  ./a.out 
+  133  nano rindas.c
+  134  gcc rindas.c -lm
+  135  nano rindas.c
+  136  gcc rindas.c -lm
+  137  nano rindas.c
+  138  gcc rindas.c -lm
+  139  nano rindas.c
+  140  gcc rindas.c -lm
+  141  nano rindas.c
+  142  gcc rindas.c -lm
+  143  nano rindas.c
+  144  gcc rindas.c -lm
+  145  nano rindas.c
+  146  gcc rindas.c -lm
+  147  nano rindas.c
+  148  gcc rindas.c -lm
+  149  ./a.out 
+  150  clear
+  151  nano rindas.c
+  152  gcc rindas.c -lm
+  153  nano rindas.c
+  154  gcc rindas.c -lm
+  155  ./a.out 
+  156  nano rindas.c
+  157  gcc rindas.c -lm
+  158  ./a.out 
+  159  nano rindas.c
+  160  gcc rindas.c -lm
+  161  nano rindas.c
+  162  gcc rindas.c -lm
+  163  ./a.out 
+  164  nano rindas.c
+  165  gcc rindas.c -lm
+  166  nano rindas.c
+  167  gcc rindas.c -lm
+  168  ./a.out 
+  169  nano rindas.c
+  170  ./a.out 
+  171  gcc rindas.c -lm
+  172  ./a.out 
+  173  nano rindas.c
+  174  gcc rindas.c -lm
+  175  ./a.out 
+  176  nano rindas.c
+  177  gcc rindas.c -lm
+  178  ./a.out 
+  179  nano rindas.c
+  180  gcc rindas.c -lm
+  181  nano rindas.c
+  182  gcc rindas.c -lm
+  183  nano rindas.c
+  184  gcc rindas.c -lm
+  185  ./a.out 
+  186  gcc rindas.c -lm
+  187  nano rindas.c
+  188  gcc rindas.c -lm
+  189  ./a.out 
+  190  nano rindas.c
+  191  gcc rindas.c -lm
+  192  ./a.out 
+  193  nano rindas.c
+  194  gcc rindas.c -lm
+  195  ./a.out 
+  196  nano rindas.c
+  197  gcc rindas.c -lm
+  198  ./a.out 
+  199  nano rindas.c
+  200  gcc rindas.c -lm
+  201  ./a.out 
+  202  nano rindas.c
+  203  gcc rindas.c -lm
+  204  ./a.out 
+  205  nano rindas.c
+  206  gcc rindas.c -lm
+  207  nano rindas.c
+  208  y
+  209  gcc rindas.c -lm
+  210  ./a.out 
+  211  nano rindas.c
+  212  gcc rindas.c -lm
+  213  nano rindas.c
+  214  gcc rindas.c -lm
+  215  ./a.out 
+  216  nano rindas.c
+  217  gcc rindas.c -lm
+  218  ./a.out 
+  219  nano rindas.c
+  220  gcc rindas.c -lm
+  221  ./a.out 
+  222  clear
+  223  ./a.out 
+  224  nano rindas.c
+  225  ./a.out 
+  226  nano dati.dat
