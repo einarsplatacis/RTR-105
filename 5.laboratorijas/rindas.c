@@ -17,7 +17,7 @@ int main(){
 	printf("Sorted array: \n");
 	printArray(rinda, n);
 	float videjais = (rinda[0]+rinda[1]+rinda[2]+rinda[3]+rinda[4]+rinda[5])/6;
-	float mediana = (rinda[3]+rinda[4])/2;
+	float mediana = (rinda[2]+rinda[3])/2;
 	int moda;
 	for(i=0;i<6;i++){
 		for(j=0;j<6-i;j++){
@@ -53,5 +53,3 @@ void printArray(int rinda[], int size){
 		printf("%d\n", rinda[i]);
 	}
 }
-
-
