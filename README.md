@@ -88,9 +88,11 @@ git push origin master
 *Ja ir chmod 775, tad var izpildīt skriptu ar:*
 ### ./text.txt
 
-## C valodas faila kompilēšana  
-*gcc* kompilē gatavo C failu.  
-*./a.out* Izpilda kompilējamo failu. Default nosaukums kompilējamam failam ir *a.out.*  
+## C valodas faila kompilēšana
+1. Nepieciesams ievadit *sudo apt-get install build-essential*
+2. Izveido failu ar *nano text.c*
+3. *gcc* kompilē gatavo C failu.  
+4. *./a.out* Izpilda kompilējamo failu. Default nosaukums kompilējamam failam ir *a.out.*  
 
 ## C valodas komandas  
 ### Mainīgie  
